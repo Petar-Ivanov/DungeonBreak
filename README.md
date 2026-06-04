@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>🎮 Play the game here:</b><br>
+  <b>🎮 PLAY THE GAME HERE:</b><br>
   <a href="https://jkxzvb.itch.io/dungeon-break">https://jkxzvb.itch.io/dungeon-break</a>
 </p>
 
@@ -42,7 +42,7 @@ The gameplay focuses on **navigation, survival, and route planning**, where ever
 
 - Top-down perspective
 - Pixel art aesthetic
-- Carefully designed color palette optimized for **OLED screens**
+- A color palette made to **POP!** on **OLED screens**
 - Each run feels unique due to procedural generation
 
 ---
